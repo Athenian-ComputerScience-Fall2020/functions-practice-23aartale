@@ -14,7 +14,11 @@ def offer_food():
 def say_bye():
    print("Cheerio then.")
 
+def say_joke():
+    print("Whats the funniest thing about Switzerland? I dont know but it has a big plus!")
 
-offer_drink()
 say_hi()
+offer_drink()
+say_joke()
 offer_food()
+say_bye()
