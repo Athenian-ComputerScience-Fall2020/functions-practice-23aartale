@@ -15,7 +15,7 @@ def say_bye():
    print("Cheerio then.")
 
 def say_joke():
-    print("Whats the funniest thing about Switzerland? I dont know but it has a big plus!")
+    print("Whats the funniest thing about Switzerland? I dont know but it has a big plus. ")
 
 say_hi()
 offer_drink()

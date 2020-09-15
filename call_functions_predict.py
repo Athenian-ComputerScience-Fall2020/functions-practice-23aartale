@@ -21,6 +21,6 @@ offer_food()
 Write your predictions here between the lines of quotes. (This is a way to do bigger comments!)
 1. Would you care for a spot of tea?
 2. Why hello there!
-3. Biscuit?
+3.  Biscuit?
 Then run the code and check your answers. 
 '''
